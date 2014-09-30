@@ -1,5 +1,5 @@
-WordChain v1.0
-==============
+Ruby WordChain v1.0
+===================
 
 This program accepts two words and builds a chain of words between the initial two words.
 Each successive entry in the chain only differs by one character (i.e., a Levenshtein distance of 1).
