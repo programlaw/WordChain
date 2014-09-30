@@ -9,9 +9,9 @@ For example, you can get from "cat" to "bird" using the following chain:
 
 Unlike Kata19, the words in this program can vary in length.
 
-How to use:
-1. At the command prompt, type "ruby wordchain.rb" \n
-2. Enter the first word in the word chain \n
+### How to use:
+1. At the command prompt, type "ruby wordchain.rb"
+2. Enter the first word in the word chain
 3. Enter the second word in the word chain
 4. Wait (hopefully not too long!)
 5. Voila!
